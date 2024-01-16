@@ -34,3 +34,14 @@ ThinkWrite - ReadThinkWrite - ReadThinkWrite
 Tue Jan 16 07:21:49 EET 2024 v0.0.3.0
 
 ThinkWrite - ReadThinkWriteLoop
+
+
+
+
+
+
+
+
+Tue Jan 16 07:58:08 EET 2024 v0.0.4.0
+
+Think - Write - Read - Think - Write - Loop
